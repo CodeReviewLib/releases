@@ -1,0 +1,8 @@
+C:\Users\dom\Desktop\codereview\codereview.Tests\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\dom\Desktop\codereview\codereview.Tests\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\dom\Desktop\codereview\codereview.Tests\ConsoleApplication1\bin\Debug\CodeReviewLib.dll
+C:\Users\dom\Desktop\codereview\codereview.Tests\ConsoleApplication1\bin\Debug\CodeReviewLib.pdb
+C:\Users\dom\Desktop\codereview\codereview.Tests\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\dom\Desktop\codereview\codereview.Tests\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\dom\Desktop\codereview\codereview.Tests\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\dom\Desktop\codereview\codereview.Tests\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
